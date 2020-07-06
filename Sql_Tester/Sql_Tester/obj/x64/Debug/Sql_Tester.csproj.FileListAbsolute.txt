@@ -1,0 +1,9 @@
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\bin\x64\Debug\Sql_Tester.exe.config
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\bin\x64\Debug\Sql_Tester.exe
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\bin\x64\Debug\Sql_Tester.pdb
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\obj\x64\Debug\Sql_Tester.frmTester.resources
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\obj\x64\Debug\Sql_Tester.Properties.Resources.resources
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\obj\x64\Debug\Sql_Tester.csproj.GenerateResource.cache
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\obj\x64\Debug\Sql_Tester.csproj.CoreCompileInputs.cache
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\obj\x64\Debug\Sql_Tester.exe
+C:\Users\Machine\source\repos\Sql_Tester\Sql_Tester\obj\x64\Debug\Sql_Tester.pdb

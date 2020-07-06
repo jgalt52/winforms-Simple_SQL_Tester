@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql_Tester", "Sql_Tester\Sql_Tester.csproj", "{1014E68E-B268-49E5-A20F-DB230EBC1EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Debug|x64.ActiveCfg = Debug|x64
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Debug|x64.Build.0 = Debug|x64
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Release|x64.ActiveCfg = Release|x64
+		{1014E68E-B268-49E5-A20F-DB230EBC1EAC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3BB2F96-5394-4D41-835A-F91A0020A1BD}
+	EndGlobalSection
+EndGlobal
